@@ -5,6 +5,6 @@
 int main()
 {
 printf("hallo word of nothing");
-return 1 ;
+return 0 ;
 
 }
